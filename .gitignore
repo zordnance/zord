@@ -2,3 +2,7 @@
 *.tmp
 LAB/
 *.odt
+zord/
+env/
+venv/
+*.pyc
